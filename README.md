@@ -1,8 +1,9 @@
-# Análise Exploratória de Dados
+# Análise Exploratória e Visualização de Dados
 
 Autor: Larissa Macedo Rosa Silva
 
-Linguagem: Python 
+Análise Exploratória: Python 
+Visualização de Dados: Power BI
 
 ## Objetivo:
 
