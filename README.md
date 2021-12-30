@@ -2,8 +2,8 @@
 
 Autor: Larissa Macedo Rosa Silva
 
-Análise Exploratória: Python 
-Visualização de Dados: Power BI
+* Análise Exploratória: Python 
+* Visualização de Dados: Power BI
 
 ## Objetivo:
 
