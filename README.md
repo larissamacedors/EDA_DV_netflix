@@ -13,7 +13,7 @@ A plataforma chegou ao Brasil em 2011 e atualmente possui inúmeras produções 
 
 Este dataset disponível no [Kaggle](https://www.kaggle.com/shivamb/netflix-shows) apresenta uma lista com mais de 8000 títulos entre filmes e seriados disponíveis na plataforma até o meio de 2021. 
 
-Este projeto tem como objetivo explorar o dataset através de visualizações de dados utilizando a linguagem Python.
+Este projeto tem como objetivo explorar o dataset através de visualizações de dados utilizando a linguagem Python e a criação de um dashboard através do programa Microsoft Power BI.
 
 ## Conjunto de Dados:
 
