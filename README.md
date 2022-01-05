@@ -29,3 +29,7 @@ Este projeto tem como objetivo explorar o dataset através de visualizações de
 * ```duration``` - duração (minutos ou temporadas)
 * ```listed_in``` - gênero do título
 * ```description``` - descrição do título
+
+## Dashboard
+
+O dashboard realizado no Power BI pode ser visualizado no [link](https://app.powerbi.com/view?r=eyJrIjoiYWU3YTE5MzctNDQ3Ny00MzI4LTlkYzgtODBlODViZDJkZjUzIiwidCI6IjZhOTlhNzdhLWYwNjQtNDQ4Yi04YTIwLTIzYjQwNDU5NTBiMyJ9&pageName=ReportSection).
